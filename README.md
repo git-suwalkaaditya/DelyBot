@@ -1,3 +1,28 @@
+# Autopilot system for _Tesla_ cars
+
+Mentors: [Yeeshukant Singh](https://github.com/Yeeshukant), [Kshitij Bhat](https://github.com/KshitijBhat)
+
+Members : [Aditya Suwalka]( https://github.com/git-suwalkaaditya)
+
+**Description**: While on the highway, the monotonous speed
+control is a bit tiresome for drivers (especially for long
+distances and longer durations). Lane Assist and Adaptive
+Cruise Control (ACC) features can help the drivers in these
+situations. Depending on the actions of other
+objects/vehicles in the car's immediate vicinity, these
+systems can slow down and stop the vehicle when required.
+
+**Specifications**:
+- Computer Vision Pipeline for Lane detection should be
+efficient in detecting the free path on the road.
+- Motion planning and control systems are needed to steer
+the vehicle to have the least cross-track error and
+automatic lane centering.
+- Bonus points for an active obstacle avoidance system to
+change lanes and avoid other cars in the lane.
+
+
+
 <div id="top"></div>
 
 <br>
@@ -10,24 +35,6 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-
-<br>
-DelyBot is a robot that uses six wheels to drive itself along pedestrian paths but also on public roads to reach requested delivery addresses.
-The robot is able to locate itself through knowledge of the global static map and is able to detect and avoid moving obstacles.
-<br>
-<br>
-<div align="center">
-<img src="https://github.com/gmeidk/DelyBot/blob/cb787818e426946b98b9b5e84221a44c5c941cd8/MEDIA/simulation.png?raw=true" alt="DelyBot simulation"> 
-</div>
-<br>
-DelyBot is composed of:
-<br><br>
- <ul>
-  <li>an <i>upper structure</i> designed to transport packages, objects, food</li>
-  <li><i>six motorized wheels</i> that allow it to move using differential control</li>
-</ul> 
-<br>
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 ### Built With
 
@@ -207,3 +214,4 @@ Giuseppe Roberto - [@gmeidk](https://bit.ly/30rueVT) - g.roberto1@studenti.polib
 Project Link: [https://github.com/gmeidk/DelyBot](https://bit.ly/3IO2zji)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+<!-- ABOUT THE PROJECT -->
