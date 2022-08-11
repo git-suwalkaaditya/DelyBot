@@ -77,13 +77,15 @@ At first it is necessary to install external packages:
 <br>
 
 ### Installation
-
-1. Clone the repo inside the catkin workspace
+1. First make a catkin workspace
+   ```sh
+   mkdir -p catkin_ws/src
+2. Clone the repo inside the catkin workspace
    ```sh
    cd ~/catkin_ws/src
-   git clone https://github.com/gmeidk/DelyBot.git
+   git clone https://github.com/git-suwalkaaditya/DelyBot.git
    ```
-2. Build packages
+3. Build packages
    ```sh
    cd ~/catkin_ws
    catkin_make
