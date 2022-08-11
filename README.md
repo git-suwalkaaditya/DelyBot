@@ -209,9 +209,7 @@ https://user-images.githubusercontent.com/81641638/145631074-0517d654-1828-495e-
 
 For further information check the report - [DelyBot Report.pdf](https://bit.ly/3GNdJTN)
 
-Alessandro Quatela - [@qualex97](https://bit.ly/3dP01Dp) - a.quatela1@studenti.poliba.it 
 
-Giuseppe Roberto - [@gmeidk](https://bit.ly/30rueVT) - g.roberto1@studenti.poliba.it
 
 Project Link: [https://github.com/gmeidk/DelyBot](https://bit.ly/3IO2zji)
 
